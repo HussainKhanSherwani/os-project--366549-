@@ -1,0 +1,18 @@
+cout << "Welcome to cwushell help!" << endl;
+cout << "Available commands:" << endl;
+cout << "  exit                - Exit the shell" << endl;
+cout << "  presentdir          - Print the current working directory" << endl;
+cout << "  cdir <directory>    - Change directory" << endl;
+cout << "  remove <file>       - Remove a file" << endl;
+cout << "  end <pid>           - End a process with the given process ID" << endl;
+cout << "  trackhistory        - Display command history" << endl;
+cout << "  create <file>       - Create or update a file" << endl;
+cout << "  rmdir <directory>   - Remove a directory" << endl;
+cout << "  move <source> <dest>- Move or rename a file" << endl;
+cout << "  list                - List directory entries" << endl;
+cout << "  cat <file>          - Display the contents of a file" << endl;
+cout << "  prin <text>         - Print text" << endl;
+cout << "  mkdir <directory>   - Create a directory" << endl;
+cout << "  cmp <file1> <file2> - Compare two files" << endl;
+cout << "  pidof<process>      - finds pid of process" << endl;
+cout << "  help                - Display this help message" << endl;
